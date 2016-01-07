@@ -1,0 +1,536 @@
+============================================
+Scan time : 2016-1-4 9:46:37
+Scanning file : virusaaa.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:47:32
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:48:37
+Scanning file : C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\bin\Debug\virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:50:9
+Scanning file : C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\bin\Debug\virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:50:45
+Scanning file : virust.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:50:57
+Scanning file : new.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:51:10
+Scanning file : Hello.t
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:51:26
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:51:39
+Scanning file : new.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:51:51
+Scanning file : Hello.t
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:53:20
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:53:33
+Scanning file : new.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:53:46
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:54:40
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:54:52
+Scanning file : new.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:55:5
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:56:40
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:56:53
+Scanning file : new.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:57:5
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:59:19
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 9:59:31
+Scanning file : new.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-4 9:59:43
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-4 10:14:2
+Scanning file : new.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Error: Can't open file or directory
+============================================
+============================================
+Scan time : 2016-1-6 12:58:38
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-6 13:4:19
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: exeScanner.exe.UNOFFICIAL
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 8:51:26
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 8:52:12
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: exeScanner.exe.UNOFFICIAL
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 8:52:57
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading error: Broken or not a CVD file
+============================================
+============================================
+Scan time : 2016-1-7 9:15:41
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: exeScanner.exe.UNOFFICIAL
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:17:49
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: exeScanner.exe.UNOFFICIAL
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:18:38
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: exeScanner.exe.UNOFFICIAL
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:18:49
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:25:20
+Scanning file : ex.hdb
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:27:51
+Scanning file : ex.hdb
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:28:12
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:28:25
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:28:39
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:28:57
+Scanning file : ex.hdb
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:29:53
+Scanning file : ex.hdb
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:30:5
+Scanning file : exeScanner.exe
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.10 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:30:18
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 9:30:30
+Scanning file : virus.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+Virus detected: Eicar-Test-Signature
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:15:52
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:17:28
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:26:16
+Scanning file : ->
+Libclamav initialization .. OK
+Engine creation .. OK
+============================================
+Scan time : 2016-1-7 10:26:23
+Scanning file : ->
+Libclamav initialization .. OK
+Engine creation .. OK
+============================================
+Scan time : 2016-1-7 10:27:4
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:27:38
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:28:37
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:32:5
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:40:1
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:44:0
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 10:45:44
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 16:16:25
+Scanning file : clean.txt
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.00 MB
+============================================
+============================================
+Scan time : 2016-1-7 16:30:59
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================
+============================================
+Scan time : 2016-1-7 17:6:22
+Scanning file : dll_lib.dll
+Libclamav initialization .. OK
+Engine creation .. OK
+Database loading .. OK
+Database initialization .. OK
+No virus detected.
+Data scanned: 0.04 MB
+============================================

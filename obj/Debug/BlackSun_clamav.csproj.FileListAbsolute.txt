@@ -1,0 +1,6 @@
+C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\bin\Debug\BlackSun_clamav.exe.config
+C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\bin\Debug\BlackSun_clamav.exe
+C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\bin\Debug\BlackSun_clamav.pdb
+C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\obj\Debug\BlackSun_clamav.exe
+C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\obj\Debug\BlackSun_clamav.pdb
+C:\Users\bouho\Documents\Visual Studio 2015\Projects\test_2\BlackSun_clamav\obj\Debug\BlackSun_clamav.csprojResolveAssemblyReference.cache
